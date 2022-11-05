@@ -31,6 +31,11 @@ To get this project in your local machine, follow these steps:
 - npm install
 - npm run dev
 
+### Design 
+
+- Go in src>assets 
+- Grap design
+- Follow the design to style the project.
 
 
 ## Author Admin
