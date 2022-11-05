@@ -31,24 +31,32 @@ To get this project in your local machine, follow these steps:
 - npm install
 - npm run dev
 
+### Design 
 
-
-## Author Admin
-
-👤 **Zachee Ishimwe**
-
-- GitHub: [@zacheeIshimwe](https://github.com/ishimwezachee)
-- LinkedIn: [@zacheeIshimwe](https://www.linkedin.com/in/zachee-ishimwe-ab952a119/)
-
-## Authors 
-1. 
-
-
-## 🤝 Contributing
+- Go in src>assets 
+- Grap design
+- Follow the design to style the project.
+## 🤝 Contributing to this project 
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+- Make sure that you accepted the access invatitatin from your email 
+- Check in project issue, to see what task/feature you are assigned to 
+- Before writing your code make sure that your main branch is updated/pull
+- Create a branch from Main branch, and make changes in that branch 
+- Push your branch to github
+- Assign the admin to review your project 
+- When you get approved, Merge your project to main
+
+
+
+## Admin
+👤 **Zachee Ishimwe**
+
+## Authors 
+1. 
+
 
 ## Show your support
 
