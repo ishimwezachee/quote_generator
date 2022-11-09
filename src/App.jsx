@@ -1,5 +1,7 @@
 import { useState,useEffect } from 'react';
 import './App.css';
+import Separator from './assets/images/pattern-divider-desktop.svg';
+import Dice from './assets/images/icon-dice.svg';
 
 function App() {
   const [data, setdata] = useState("");
@@ -16,9 +18,11 @@ function App() {
   },[]);
 
   return (
-    <div className="App">
+    <div className="card">
       <h1>{data}</h1>
-      <button onClick={getquote}>Click</button>
+      <img className='seperator' src={Separator} alt="separator image"/>
+      <br />
+      <img className='dice' onClick={getquote} src={Dice} alt="dice"/>
     </div>
   )
 }
